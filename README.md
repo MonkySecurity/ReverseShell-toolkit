@@ -15,7 +15,7 @@
 	- run "sudo apt-get install python2.7"
 	- run "sudo apt-get install python-pip"
 	- run "sudo apt-get install python-setuptools"
-	- run "sudo pip install flask"
+	- run "sudo pip install Flask"
 
 - ### Run
  	- Go in the Revershell toolkit folder
